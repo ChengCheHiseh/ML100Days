@@ -7,3 +7,7 @@
    * [文件](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_002_Document)
    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_002_HW.ipynb)
    * [筆記](https://medium.com/@z1334879568/ml100days-002-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E6%A6%82%E8%AB%96-988196f2a4cd)
+3. 機器學習-流程與步驟 ( 申論題) 資料前處理 > 訓練/測試集切分 >選定目標與評估基準 > 建立模型 > 調整參數。熟悉整個 ML 的流程
+   * [文件](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_003_Document)
+   * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_003_HW.ipynb)
+   * [筆記](https://medium.com/@z1334879568/ml100days-003-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E6%B5%81%E7%A8%8B%E8%88%87%E6%AD%A5%E9%A9%9F-50928243ae78)
