@@ -1,4 +1,5 @@
 # ML100Days
+## 1. 機器學習概論 從概念上理解機器學習的目的與限制，並導覽機器學習流程
 1. 資料介紹與評估資料 (申論+程式碼) 挑戰是什麼?動手分析前請三思
    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_001_Document)
    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_001_HW.ipynb)
@@ -11,3 +12,7 @@
    * [文件](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_003_Document)
    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_003_HW.ipynb)
    * [筆記](https://medium.com/@z1334879568/ml100days-003-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E6%B5%81%E7%A8%8B%E8%88%87%E6%AD%A5%E9%A9%9F-50928243ae78)
+4. EDA/讀取資料與分析流程
+   * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_004_Document)
+   * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_004_HW.ipynb)
+   * [筆記](https://medium.com/@z1334879568/ml100days-004-eda-%E8%AE%80%E5%8F%96%E8%B3%87%E6%96%99%E8%88%87%E5%88%86%E6%9E%90%E6%B5%81%E7%A8%8B-467cc7aba3a3)
