@@ -16,3 +16,9 @@
    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_004_Document)
    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_004_HW.ipynb)
    * [筆記](https://medium.com/@z1334879568/ml100days-004-eda-%E8%AE%80%E5%8F%96%E8%B3%87%E6%96%99%E8%88%87%E5%88%86%E6%9E%90%E6%B5%81%E7%A8%8B-467cc7aba3a3)
+
+## 2. 資料清理數據前處理 以滾動方式進行資料清理與探索性分析
+5. 如何新建一個 dataframe? 如何讀取其他資料? (非 csv 的資料) 從頭建立一個 dataframe 2. 如何讀取不同形式的資料 (如圖檔、純文字檔、json 等)
+   * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_005_Document)
+   * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_005_HW.ipynb)
+   * [筆記](https://medium.com/@z1334879568/ml100days-005-%E5%A6%82%E4%BD%95%E6%96%B0%E5%BB%BA%E4%B8%80%E5%80%8Bdataframe-%E5%A6%82%E4%BD%95%E8%AE%80%E5%8F%96%E5%85%B6%E4%BB%96%E8%B3%87%E6%96%99-%E9%9D%9Ecsv%E6%A0%BC%E5%BC%8F%E8%B3%87%E6%96%99-908b348d7ed7)
