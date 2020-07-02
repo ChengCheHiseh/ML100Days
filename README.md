@@ -23,3 +23,7 @@
    * [作業1](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_005-1_HW.ipynb)
    * [作業2](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_005-2_HW.ipynb)
    * [筆記](https://medium.com/@z1334879568/ml100days-005-%E5%A6%82%E4%BD%95%E6%96%B0%E5%BB%BA%E4%B8%80%E5%80%8Bdataframe-%E5%A6%82%E4%BD%95%E8%AE%80%E5%8F%96%E5%85%B6%E4%BB%96%E8%B3%87%E6%96%99-%E9%9D%9Ecsv%E6%A0%BC%E5%BC%8F%E8%B3%87%E6%96%99-908b348d7ed7)
+6. EDA: 欄位的資料類型介紹及處理 了解資料在 pandas 中可以表示的類型
+   * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_006_Document)
+   * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_004_HW.ipynb)
+   * [筆記](https://medium.com/@z1334879568/ml100days-006-eda-%E6%AC%84%E4%BD%8D%E7%9A%84%E8%B3%87%E6%96%99%E9%A1%9E%E5%9E%8B%E4%BB%8B%E7%B4%B9%E5%8F%8A%E8%99%95%E7%90%86-b4fc7408d84c)
