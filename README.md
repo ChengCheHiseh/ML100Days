@@ -31,3 +31,7 @@
    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_007_Document)
    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_007_HW.ipynb)
    * [筆記](https://medium.com/@z1334879568/ml100days-007-%E7%89%B9%E5%BE%B5%E9%A1%9E%E5%9E%8B-b6134ba88d18)
+8. EDA資料分佈 用統計方式描述資料
+   * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_008_Document)
+   * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_008_HW.ipynb)
+   * [筆記](https://medium.com/@z1334879568/ml100days-008-eda%E4%B9%8B%E8%B3%87%E6%96%99%E5%88%86%E5%B8%83-cc9d70a59944)
