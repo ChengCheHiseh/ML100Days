@@ -36,6 +36,6 @@
    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_008_HW.ipynb)
    * [筆記](https://medium.com/@z1334879568/ml100days-008-eda%E4%B9%8B%E8%B3%87%E6%96%99%E5%88%86%E5%B8%83-cc9d70a59944)
 9. EDA: Outlier 及處理 偵測與處理例外數值點：1. 透過常用的偵測方法找到例外 2. 判斷例外是否正常 (推測可能的發生原因)
-   * [文件](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_009_Document)
+   * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_009_Document)
    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_009_HW.ipynb)
    * [筆記](https://medium.com/@z1334879568/ml100days-009-eda-%E9%9B%A2%E7%BE%A4%E5%80%BC-outlier-%E5%8F%8A%E5%85%B6%E8%99%95%E7%90%86-e3bd039f61e8)
