@@ -39,3 +39,7 @@
    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_009_Document)
    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_009_HW.ipynb)
    * [筆記](https://medium.com/@z1334879568/ml100days-009-eda-%E9%9B%A2%E7%BE%A4%E5%80%BC-outlier-%E5%8F%8A%E5%85%B6%E8%99%95%E7%90%86-e3bd039f61e8)
+10. 數值型特徵 - 去除離群值 數值型特徵若出現少量的離群值，則需要去除以保持其餘數據不被影響
+   * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_0010_Document)
+   * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_0010_HW.ipynb)
+   * [筆記](https://medium.com/@z1334879568/ml100days-010-%E6%95%B8%E5%80%BC%E5%9E%8B%E7%89%B9%E5%BE%B5-%E5%8E%BB%E9%99%A4%E9%9B%A2%E7%BE%A4%E5%80%BC-13b0216420eb)   
