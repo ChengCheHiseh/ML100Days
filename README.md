@@ -43,3 +43,12 @@
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_010_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_010_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-010-%E6%95%B8%E5%80%BC%E5%9E%8B%E7%89%B9%E5%BE%B5-%E5%8E%BB%E9%99%A4%E9%9B%A2%E7%BE%A4%E5%80%BC-13b0216420eb)   
+11. 常用的數值取代：中位數與分位數連續數值標準化 偵測與處理例外數值 1. 缺值或例外取代 2. 數據標準化
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_011_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_011_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-011-%E6%95%B8%E5%80%BC%E5%A1%AB%E8%A3%9C%E8%88%87%E9%80%A3%E7%BA%8C%E6%95%B8%E5%80%BC%E6%A8%99%E6%BA%96%E5%8C%96-183eabe0642d)
+12. 數值型特徵-補缺失值與標準化 數值型特徵首先必須填補缺值與標準化，在此複習並展示對預測結果的差異
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_012_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_012_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-012-%E6%95%B8%E5%80%BC%E5%9E%8B%E7%89%B9%E5%BE%B5-%E8%A3%9C%E7%BC%BA%E5%A4%B1%E5%80%BC%E8%88%87%E6%A8%99%E6%BA%96%E5%8C%96-e12557460bee)
+      
