@@ -63,5 +63,8 @@
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_015_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_015_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-015-eda-from-correlation-9f6b2088d2d4)
-         
+16. EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE) 1. 如何調整視覺化方式檢視數值範圍 2. 美圖修修 - 轉換繪圖樣式
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_016_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_016_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-016-%E7%B9%AA%E5%9C%96%E8%88%87%E6%A8%A3%E5%BC%8Fkernel-density-estimation-kde-6ec3a7ddf5ad)        
     
