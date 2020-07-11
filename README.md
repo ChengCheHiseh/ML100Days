@@ -67,4 +67,7 @@
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_016_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_016_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-016-%E7%B9%AA%E5%9C%96%E8%88%87%E6%A8%A3%E5%BC%8Fkernel-density-estimation-kde-6ec3a7ddf5ad)        
-    
+17. EDA: 把連續型變數離散化 簡化連續性變數 
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_017_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_017_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-017-%E6%8A%8A%E9%80%A3%E7%BA%8C%E8%AE%8A%E6%95%B8%E9%9B%A2%E6%95%A3%E5%8C%96-b9e9b0a35259)  
