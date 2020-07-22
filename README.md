@@ -76,6 +76,6 @@
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_018_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-018-%E7%A8%8B%E5%BC%8F%E5%AF%A6%E4%BD%9C-%E6%8A%8A%E9%80%A3%E7%BA%8C%E8%AE%8A%E6%95%B8%E9%9B%A2%E6%95%A3%E5%8C%96-283476d251f)  
 18. Subplots 探索性資料分析 - 資料視覺化 - 多圖檢視 1. 將數據分組一次呈現 2. 把同一組資料相關的數據一次攤在面前
-    * [文件](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_019_Document)
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_019_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_019_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-019-subplots-5a12683d6df1)  
