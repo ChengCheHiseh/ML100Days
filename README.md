@@ -79,7 +79,7 @@
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_019_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_019_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-019-subplots-5a12683d6df1)  
-20.  Heatmap & Grid-plot 探索性資料分析 - 資料視覺化 - 熱像圖 / 格狀圖 1. 熱圖：以直觀的方式檢視變數間的相關性 2. 格圖：繪製變數間的散佈圖及分布
+20. Heatmap & Grid-plot 探索性資料分析 - 資料視覺化 - 熱像圖 / 格狀圖 1. 熱圖：以直觀的方式檢視變數間的相關性 2. 格圖：繪製變數間的散佈圖及分布
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_020_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_020_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-020-heatmap-gridplot-a73c0befc792)  
