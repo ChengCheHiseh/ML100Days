@@ -75,7 +75,11 @@
     * [文件](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_018_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_018_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-018-%E7%A8%8B%E5%BC%8F%E5%AF%A6%E4%BD%9C-%E6%8A%8A%E9%80%A3%E7%BA%8C%E8%AE%8A%E6%95%B8%E9%9B%A2%E6%95%A3%E5%8C%96-283476d251f)  
-18. Subplots 探索性資料分析 - 資料視覺化 - 多圖檢視 1. 將數據分組一次呈現 2. 把同一組資料相關的數據一次攤在面前
+19. Subplots 探索性資料分析 - 資料視覺化 - 多圖檢視 1. 將數據分組一次呈現 2. 把同一組資料相關的數據一次攤在面前
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_019_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_019_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-019-subplots-5a12683d6df1)  
+20. Heatmap & Grid-plot 探索性資料分析 - 資料視覺化 - 熱像圖 / 格狀圖 1. 熱圖：以直觀的方式檢視變數間的相關性 2. 格圖：繪製變數間的散佈圖及分布
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_020_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_020_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-020-heatmap-gridplot-a73c0befc792)  
