@@ -89,6 +89,7 @@
     * [筆記](https://medium.com/@z1334879568/ml100days-021-%E6%A8%A1%E5%9E%8B%E5%88%9D%E9%AB%94%E9%A9%97-logistic-regression-2b19a025ce5)
   
 ## 3. 資料科學特徵工程技術10 未提交 使用統計或領域知識，以各種組合調整方式，生成新特徵以提升模型預測力。
+22. 特徵工程簡介 介紹機器學習完整步驟中，特徵工程的位置以及流程架構
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_022_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_022_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-022-%E7%89%B9%E5%BE%B5%E5%B7%A5%E7%A8%8B%E7%B0%A1%E4%BB%8B-cd475a3fd3d0)
