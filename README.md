@@ -83,3 +83,8 @@
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_020_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_020_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-020-heatmap-gridplot-a73c0befc792)  
+21. 模型初體驗 Logistic Regression 在我們開始使用任何複雜的模型之前，有一個最簡單的模型當作 baseline 是一個好習慣
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_021_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_021_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-021-%E6%A8%A1%E5%9E%8B%E5%88%9D%E9%AB%94%E9%A9%97-logistic-regression-2b19a025ce5)
+  
