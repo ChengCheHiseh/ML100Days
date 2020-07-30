@@ -97,4 +97,7 @@
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_023_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_023_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-023-%E6%95%B8%E5%80%BC%E5%9E%8B%E7%89%B9%E5%BE%B5-%E5%8E%BB%E9%99%A4%E5%81%8F%E6%85%8B-878bab01f538)    
-    
+24. 類別型特徵 - 基礎處理 介紹類別型特徵最基礎的作法 : 標籤編碼與獨熱編碼
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_024_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_024_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-024-%E9%A1%9E%E5%88%A5%E5%9E%8B%E7%89%B9%E5%BE%B5-%E5%9F%BA%E7%A4%8E%E8%99%95%E7%90%86-add4bbd3bf32)      
