@@ -93,3 +93,8 @@
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_022_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_022_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-022-%E7%89%B9%E5%BE%B5%E5%B7%A5%E7%A8%8B%E7%B0%A1%E4%BB%8B-cd475a3fd3d0)
+23. 數值型特徵 - 去除偏態 數值型特徵若分布明顯偏一邊，則需去除偏態以消除預測的偏差
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_023_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_023_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-023-%E6%95%B8%E5%80%BC%E5%9E%8B%E7%89%B9%E5%BE%B5-%E5%8E%BB%E9%99%A4%E5%81%8F%E6%85%8B-878bab01f538)    
+    
