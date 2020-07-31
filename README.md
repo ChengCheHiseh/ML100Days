@@ -101,3 +101,7 @@
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_024_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_024_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-024-%E9%A1%9E%E5%88%A5%E5%9E%8B%E7%89%B9%E5%BE%B5-%E5%9F%BA%E7%A4%8E%E8%99%95%E7%90%86-add4bbd3bf32)      
+25. 類別型特徵 - 均值編碼 類別型特徵最重要的編碼 : 均值編碼，將標籤以目標均值取代
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_025_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_025_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-025-%E9%A1%9E%E5%88%A5%E5%9E%8B%E7%89%B9%E5%BE%B5-%E5%9D%87%E5%80%BC%E7%B7%A8%E7%A2%BC-80db33325b2) 
