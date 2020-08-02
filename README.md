@@ -109,3 +109,7 @@
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_026_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_026_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-026-%E9%A1%9E%E5%88%A5%E5%9E%8B%E7%89%B9%E5%BE%B5-%E5%85%B6%E4%BB%96%E9%80%B2%E9%9A%8E%E8%99%95%E7%90%86-580e5625f1cb) 
+27. 時間型特徵 時間型特徵可抽取出多個子特徵，或周期化，或取出連續時段內的次數
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_027_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_027_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-027-%E6%99%82%E9%96%93%E5%9E%8B%E7%89%B9%E5%BE%B5-d259abd861ed) 
