@@ -105,3 +105,7 @@
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_025_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_025_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-025-%E9%A1%9E%E5%88%A5%E5%9E%8B%E7%89%B9%E5%BE%B5-%E5%9D%87%E5%80%BC%E7%B7%A8%E7%A2%BC-80db33325b2) 
+26. 類別型特徵 - 其他進階處理 類別型特徵的其他常見編碼 : 計數編碼對應出現頻率相關的特徵，雜湊編碼對應眾多類別而無法排序的特徵
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_026_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_026_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-026-%E9%A1%9E%E5%88%A5%E5%9E%8B%E7%89%B9%E5%BE%B5-%E5%85%B6%E4%BB%96%E9%80%B2%E9%9A%8E%E8%99%95%E7%90%86-580e5625f1cb) 
