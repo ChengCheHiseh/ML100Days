@@ -113,3 +113,7 @@
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_027_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_027_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-027-%E6%99%82%E9%96%93%E5%9E%8B%E7%89%B9%E5%BE%B5-d259abd861ed) 
+28. 特徵組合 - 數值與數值組合 特徵組合的基礎 : 以四則運算的各種方式，組合成更具預測力的特徵
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_028_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_028_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-028-%E7%89%B9%E5%BE%B5%E7%B5%84%E5%90%88-%E6%95%B8%E5%80%BC%E8%88%87%E6%95%B8%E5%80%BC%E7%B5%84%E5%90%88-e34221feccda) 
