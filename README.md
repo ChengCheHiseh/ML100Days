@@ -117,3 +117,7 @@
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_028_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_028_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-028-%E7%89%B9%E5%BE%B5%E7%B5%84%E5%90%88-%E6%95%B8%E5%80%BC%E8%88%87%E6%95%B8%E5%80%BC%E7%B5%84%E5%90%88-e34221feccda) 
+29. 特徵組合 - 類別與數值組合 類別型對數值型特徵可以做群聚編碼，與目標均值編碼類似，但用途不同
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_029_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_029_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-%E7%89%B9%E5%BE%B5%E7%B5%84%E5%90%88-%E9%A1%9E%E5%88%A5%E8%88%87%E6%95%B8%E5%80%BC%E7%B5%84%E5%90%88-6759bd5bbadf) 
