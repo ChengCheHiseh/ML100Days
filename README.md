@@ -125,3 +125,7 @@
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_030_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_030_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-030-%E7%89%B9%E5%BE%B5%E9%81%B8%E6%93%87-d2a73ecee6bb) 
+31. 特徵評估 介紹並比較兩種重要的特徵評估方式，協助檢測特徵的重要性
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_031_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_031_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-031-%E7%89%B9%E5%BE%B5%E8%A9%95%E4%BC%B0-5d1f781e9385) 
