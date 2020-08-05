@@ -121,3 +121,7 @@
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_029_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_029_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-%E7%89%B9%E5%BE%B5%E7%B5%84%E5%90%88-%E9%A1%9E%E5%88%A5%E8%88%87%E6%95%B8%E5%80%BC%E7%B5%84%E5%90%88-6759bd5bbadf) 
+30. 特徵選擇 介紹常見的幾種特徵篩選方式
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_030_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_030_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-030-%E7%89%B9%E5%BE%B5%E9%81%B8%E6%93%87-d2a73ecee6bb) 
