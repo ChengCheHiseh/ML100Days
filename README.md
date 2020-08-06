@@ -129,3 +129,7 @@
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_031_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_031_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-031-%E7%89%B9%E5%BE%B5%E8%A9%95%E4%BC%B0-5d1f781e9385) 
+32. 分類型特徵優化 - 葉編碼 葉編碼 : 適用於分類問題的樹狀預估模型改良
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_032_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_032_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-032-%E5%88%86%E9%A1%9E%E5%9E%8B%E7%89%B9%E5%BE%B5%E5%84%AA%E5%8C%96-%E8%91%89%E7%B7%A8%E7%A2%BC-717987df6e4c) 
