@@ -141,4 +141,8 @@
 34. 訓練/測試集切分的概念 為何要做訓練/測試集切分？有什麼切分的方法？
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_034_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_034_HW.ipynb)
-    * [筆記](https://medium.com/@z1334879568/ml100days-034-%E8%A8%93%E7%B7%B4-%E6%B8%AC%E8%A9%A6%E9%9B%86%E5%88%87%E5%88%86-902d4aedc580)  
+    * [筆記](https://medium.com/@z1334879568/ml100days-034-%E8%A8%93%E7%B7%B4-%E6%B8%AC%E8%A9%A6%E9%9B%86%E5%88%87%E5%88%86-902d4aedc580)
+35. regression vs. classification 回歸問題與分類問題的區別？如何定義專案的目標
+    * [文件](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_035_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_035_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-035-regression-vs-classification-2a656655fd74)   
