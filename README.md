@@ -135,7 +135,7 @@
     * [筆記](https://medium.com/@z1334879568/ml100days-032-%E5%88%86%E9%A1%9E%E5%9E%8B%E7%89%B9%E5%BE%B5%E5%84%AA%E5%8C%96-%E8%91%89%E7%B7%A8%E7%A2%BC-717987df6e4c) 
 ## 4. 機器學習基礎模型建立 學習透過Scikit-learn等套件，建立機器學習模型並進行訓練！
 33. 機器如何學習? 了解機器學習的定義，過擬合 (Overfit) 是甚麼，該如何解決
-    * [文件](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_033_Document)
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_033_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_033_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-033-%E6%A9%9F%E5%99%A8%E5%A6%82%E4%BD%95%E5%AD%B8%E7%BF%92-4060b0a925a2)
 34. 訓練/測試集切分的概念 為何要做訓練/測試集切分？有什麼切分的方法？
