@@ -88,7 +88,7 @@
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_021_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-021-%E6%A8%A1%E5%9E%8B%E5%88%9D%E9%AB%94%E9%A9%97-logistic-regression-2b19a025ce5)
   
-## 3. 資料科學特徵工程技術10 未提交 使用統計或領域知識，以各種組合調整方式，生成新特徵以提升模型預測力。
+## 3. 資料科學特徵工程技術 使用統計或領域知識，以各種組合調整方式，生成新特徵以提升模型預測力。
 22. 特徵工程簡介 介紹機器學習完整步驟中，特徵工程的位置以及流程架構
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_022_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_022_HW.ipynb)
@@ -133,3 +133,12 @@
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_032_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_032_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-032-%E5%88%86%E9%A1%9E%E5%9E%8B%E7%89%B9%E5%BE%B5%E5%84%AA%E5%8C%96-%E8%91%89%E7%B7%A8%E7%A2%BC-717987df6e4c) 
+## 4. 機器學習基礎模型建立 學習透過Scikit-learn等套件，建立機器學習模型並進行訓練！
+33. 機器如何學習? 了解機器學習的定義，過擬合 (Overfit) 是甚麼，該如何解決
+    * [文件](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_033_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_033_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-033-%E6%A9%9F%E5%99%A8%E5%A6%82%E4%BD%95%E5%AD%B8%E7%BF%92-4060b0a925a2)
+34. 訓練/測試集切分的概念 為何要做訓練/測試集切分？有什麼切分的方法？
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_034_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_034_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-034-%E8%A8%93%E7%B7%B4-%E6%B8%AC%E8%A9%A6%E9%9B%86%E5%88%87%E5%88%86-902d4aedc580)  
