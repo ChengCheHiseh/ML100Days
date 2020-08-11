@@ -146,3 +146,7 @@
     * [文件](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_035_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_035_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-035-regression-vs-classification-2a656655fd74)   
+36. 評估指標選定/evaluation metrics 專案該如何選擇評估指標？常用指標有哪些？
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_036_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_036_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-036-%E8%A9%95%E4%BC%B0%E6%8C%87%E6%A8%99%E9%81%B8%E5%AE%9A-b9a6ded514f5)   
