@@ -151,6 +151,10 @@
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_036_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-036-%E8%A9%95%E4%BC%B0%E6%8C%87%E6%A8%99%E9%81%B8%E5%AE%9A-b9a6ded514f5)  
 37. regression model 介紹 - 線性迴歸/羅吉斯回歸 線性迴歸/羅吉斯回歸模型的理論基礎與使用時的注意事項
-    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_037_Document)
+    * [文件](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_037_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_037_HW.ipynb)
-    * [筆記](https://medium.com/@z1334879568/ml100days-037-regression-model-%E4%BB%8B%E7%B4%B9-linear-regression-logistic-regression-a94e904efe8f)   
+    * [筆記](https://medium.com/@z1334879568/ml100days-037-regression-model-%E4%BB%8B%E7%B4%B9-linear-regression-logistic-regression-a94e904efe8f)
+38. regression model 程式碼撰寫 如何使用 Scikit-learn 撰寫線性迴歸/羅吉斯回歸模型的程式碼
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_038_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_038_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-038-regression%E6%A8%A1%E5%9E%8B-%E7%A8%8B%E5%BC%8F%E7%A2%BC-9e1ee852caa8)      
