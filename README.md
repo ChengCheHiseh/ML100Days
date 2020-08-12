@@ -149,4 +149,8 @@
 36. 評估指標選定/evaluation metrics 專案該如何選擇評估指標？常用指標有哪些？
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_036_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_036_HW.ipynb)
-    * [筆記](https://medium.com/@z1334879568/ml100days-036-%E8%A9%95%E4%BC%B0%E6%8C%87%E6%A8%99%E9%81%B8%E5%AE%9A-b9a6ded514f5)   
+    * [筆記](https://medium.com/@z1334879568/ml100days-036-%E8%A9%95%E4%BC%B0%E6%8C%87%E6%A8%99%E9%81%B8%E5%AE%9A-b9a6ded514f5)  
+37. regression model 介紹 - 線性迴歸/羅吉斯回歸 線性迴歸/羅吉斯回歸模型的理論基礎與使用時的注意事項
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_037_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_037_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-037-regression-model-%E4%BB%8B%E7%B4%B9-linear-regression-logistic-regression-a94e904efe8f)   
