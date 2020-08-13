@@ -157,4 +157,8 @@
 38. regression model 程式碼撰寫 如何使用 Scikit-learn 撰寫線性迴歸/羅吉斯回歸模型的程式碼
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_038_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_038_HW.ipynb)
-    * [筆記](https://medium.com/@z1334879568/ml100days-038-regression%E6%A8%A1%E5%9E%8B-%E7%A8%8B%E5%BC%8F%E7%A2%BC-9e1ee852caa8)      
+    * [筆記](https://medium.com/@z1334879568/ml100days-038-regression%E6%A8%A1%E5%9E%8B-%E7%A8%8B%E5%BC%8F%E7%A2%BC-9e1ee852caa8)
+39. regression model 介紹 - LASSO 回歸/ Ridge 回歸 LASSO 回歸/ Ridge 回歸的理論基礎與與使用時的注意事項
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_039_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_039_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-039-lasso-ridge-regression-542c2756c60f)            
