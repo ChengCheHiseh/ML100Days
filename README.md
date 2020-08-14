@@ -161,4 +161,8 @@
 39. regression model 介紹 - LASSO 回歸/ Ridge 回歸 LASSO 回歸/ Ridge 回歸的理論基礎與與使用時的注意事項
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_039_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_039_HW.ipynb)
-    * [筆記](https://medium.com/@z1334879568/ml100days-039-lasso-ridge-regression-542c2756c60f)            
+    * [筆記](https://medium.com/@z1334879568/ml100days-039-lasso-ridge-regression-542c2756c60f)
+40. regression model 程式碼撰寫 使用 Scikit-learn 撰寫 LASSO 回歸/ Ridge 回歸模型的程式碼
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_040_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_040_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-040-c083cdf86a57)                        
