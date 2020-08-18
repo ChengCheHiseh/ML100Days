@@ -169,4 +169,8 @@
 41. tree based model - 決策樹 (Decision Tree) 模型介紹 決策樹 (Decision Tree) 模型的理論基礎與使用時的注意事項
     * [文件](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_041_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_041_HW.ipynb)
-    * [筆記](https://medium.com/@z1334879568/ml100days-041-%E6%B1%BA%E7%AD%96%E6%A8%B9-7c1d628670b8)                   
+    * [筆記](https://medium.com/@z1334879568/ml100days-041-%E6%B1%BA%E7%AD%96%E6%A8%B9-7c1d628670b8)
+42. tree based model - 決策樹程式碼撰寫 使用 Scikit-learn 撰寫決策樹 (Decision Tree) 模型的程式碼
+    * [文件](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_042_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_042_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-042-%E6%B1%BA%E7%AD%96%E6%A8%B9-%E7%A8%8B%E5%BC%8F%E7%A2%BC%E6%92%B0%E5%AF%AB-a10e60ea16c0)                                      
