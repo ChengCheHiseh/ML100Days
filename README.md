@@ -159,10 +159,14 @@
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_038_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-038-regression%E6%A8%A1%E5%9E%8B-%E7%A8%8B%E5%BC%8F%E7%A2%BC-9e1ee852caa8)
 39. regression model 介紹 - LASSO 回歸/ Ridge 回歸 LASSO 回歸/ Ridge 回歸的理論基礎與與使用時的注意事項
-    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_039_Document)
+    * [文件](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_039_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_039_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-039-lasso-ridge-regression-542c2756c60f)
 40. regression model 程式碼撰寫 使用 Scikit-learn 撰寫 LASSO 回歸/ Ridge 回歸模型的程式碼
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_040_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_040_HW.ipynb)
-    * [筆記](https://medium.com/@z1334879568/ml100days-040-c083cdf86a57)                        
+    * [筆記](https://medium.com/@z1334879568/ml100days-040-c083cdf86a57)        
+41. tree based model - 決策樹 (Decision Tree) 模型介紹 決策樹 (Decision Tree) 模型的理論基礎與使用時的注意事項
+    * [文件](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_041_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_041_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-041-%E6%B1%BA%E7%AD%96%E6%A8%B9-7c1d628670b8)                   
