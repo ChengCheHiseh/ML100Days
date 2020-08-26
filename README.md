@@ -173,4 +173,8 @@
 42. tree based model - 決策樹程式碼撰寫 使用 Scikit-learn 撰寫決策樹 (Decision Tree) 模型的程式碼
     * [文件](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_042_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_042_HW.ipynb)
-    * [筆記](https://medium.com/@z1334879568/ml100days-042-%E6%B1%BA%E7%AD%96%E6%A8%B9-%E7%A8%8B%E5%BC%8F%E7%A2%BC%E6%92%B0%E5%AF%AB-a10e60ea16c0)                                      
+    * [筆記](https://medium.com/@z1334879568/ml100days-042-%E6%B1%BA%E7%AD%96%E6%A8%B9-%E7%A8%8B%E5%BC%8F%E7%A2%BC%E6%92%B0%E5%AF%AB-a10e60ea16c0) 
+43. tree based model - 隨機森林 (Random Forest) 介紹 隨機森林 (Random Forest)模型的理論基礎與使用時的注意事項
+    * [文件](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_043_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_043_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-043-tree-based-model-%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97-random-forest-%E4%BB%8B%E7%B4%B9-5f8405538b8e)                                                                           
