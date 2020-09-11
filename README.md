@@ -189,3 +189,8 @@
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_046_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_046_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-046-tree-based-model-%E6%A2%AF%E5%BA%A6%E6%8F%90%E5%8D%87%E6%A9%9F%E6%92%B0%E5%AF%AB-454f3741fb97)
+## 5. 機器學習調整參數 了解模型內的參數意義，學習如何根據模型訓練情形來調整參數
+47. 超參數調整與優化 什麼是超參數 (Hyper-paramter) ? 如何正確的調整超參數？常用的調參方法為何？
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_047_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_047_HW.ipynb)
+    * [筆記](https://medium.com/@z1334879568/ml100days-047-%E8%B6%85%E5%8F%83%E6%95%B8%E8%AA%BF%E6%95%B4-f19ab45c0a3)
