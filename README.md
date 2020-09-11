@@ -183,5 +183,9 @@
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_044_HW.ipynb)
     * [筆記](https://medium.com/@z1334879568/ml100days-044-tree-based-model-%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97%E7%A8%8B%E5%BC%8F%E7%A2%BC%E6%92%B0%E5%AF%AB-965a91f61146)      
 45. tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹 梯度提升機 (Gradient Boosting Machine) 模型的理論基礎與使用時的注意事項
-    * [文件](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_044_Document)
-    * [筆記](https://medium.com/@z1334879568/ml100days-045-tree-based-model-%E6%A2%AF%E5%BA%A6%E6%8F%90%E5%8D%87%E6%A9%9F-gradient-boosting-machine-a21512f164be)                                                                                                                                          
+    * [文件](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_045_Document)
+    * [筆記](https://medium.com/@z1334879568/ml100days-045-tree-based-model-%E6%A2%AF%E5%BA%A6%E6%8F%90%E5%8D%87%E6%A9%9F-gradient-boosting-machine-a21512f164be)  
+46. tree based model - 梯度提升機程式碼撰寫 使用 Scikit-learn 撰寫梯度提升機 (Gradient Boosting Machine) 模型的程式碼
+    * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_046_Document)
+    * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_046_HW.ipynb)
+    * [筆記]https://medium.com/@z1334879568/ml100days-046-tree-based-model-%E6%A2%AF%E5%BA%A6%E6%8F%90%E5%8D%87%E6%A9%9F%E6%92%B0%E5%AF%AB-454f3741fb97
