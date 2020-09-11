@@ -188,4 +188,4 @@
 46. tree based model - 梯度提升機程式碼撰寫 使用 Scikit-learn 撰寫梯度提升機 (Gradient Boosting Machine) 模型的程式碼
     * [文件及範例](https://github.com/ChengCheHiseh/ML100Days/tree/master/homework/Day_046_Document)
     * [作業](https://github.com/ChengCheHiseh/ML100Days/blob/master/homework/Day_046_HW.ipynb)
-    * [筆記]https://medium.com/@z1334879568/ml100days-046-tree-based-model-%E6%A2%AF%E5%BA%A6%E6%8F%90%E5%8D%87%E6%A9%9F%E6%92%B0%E5%AF%AB-454f3741fb97
+    * [筆記](https://medium.com/@z1334879568/ml100days-046-tree-based-model-%E6%A2%AF%E5%BA%A6%E6%8F%90%E5%8D%87%E6%A9%9F%E6%92%B0%E5%AF%AB-454f3741fb97)
